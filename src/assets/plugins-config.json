@@ -1,0 +1,14 @@
+{
+  "compliance": {
+    "mfEntry": "http://localhost:4201/remoteEntry.js",
+    "name": "compliance",
+    "exposedModule": "ComplainceModule",
+    "ngModuleName": "ComplainceModule"
+  },
+  "infra": {
+    "mfEntry": "http://localhost:4202/remoteEntry.js",
+    "name": "infra",
+    "exposedModule": "InfraModule",
+    "ngModuleName": "InfraModule"
+  }
+}
